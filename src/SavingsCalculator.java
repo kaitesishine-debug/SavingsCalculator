@@ -7,6 +7,7 @@ public class SavingsCalculator {
 
     double interestRate = 0.0755; 
 
+    // Calculate interest for each customer
     double interest1 = deposit1 * interestRate;
     double interest2 = deposit2 * interestRate;
     double interest3 = deposit3 * interestRate;
