@@ -1,3 +1,4 @@
+// Program for calculating customer savings and interest
 public class SavingsCalculator {
     public static void main(String[] args) {
    // Store the deposit amounts for the three customers
