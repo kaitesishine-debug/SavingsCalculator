@@ -23,6 +23,7 @@ public class SavingsCalculator {
     long roundedInterest2 = Math.round(interest2);
     long roundedInterest3 = Math.round(interest3);
 
+    // Calculate total deposits and total interest
     int totalDeposits = deposit1 + deposit2 + deposit3;
 
     double totalInterest = interest1 + interest2 + interest3;
