@@ -17,6 +17,7 @@ public class SavingsCalculator {
     int wholeInterest2 = (int) interest2;
     int wholeInterest3 = (int) interest3;
 
+    // Round interest values to the nearest whole number
     long roundedInterest1 = Math.round(interest1);
     long roundedInterest2 = Math.round(interest2);
     long roundedInterest3 = Math.round(interest3);
