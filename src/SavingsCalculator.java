@@ -56,7 +56,8 @@ public class SavingsCalculator {
     System.out.println("Customer 3 Rounded Interest: " + roundedInterest3);
 
     System.out.println();
-    
+
+    // Program ends here
     
     }
 }
