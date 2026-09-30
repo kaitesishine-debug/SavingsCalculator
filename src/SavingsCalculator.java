@@ -12,6 +12,7 @@ public class SavingsCalculator {
     double interest2 = deposit2 * interestRate;
     double interest3 = deposit3 * interestRate;
 
+    // Convert interest values from double to int using explicit casting
     int wholeInterest1 = (int) interest1;
     int wholeInterest2 = (int) interest2;
     int wholeInterest3 = (int) interest3;
