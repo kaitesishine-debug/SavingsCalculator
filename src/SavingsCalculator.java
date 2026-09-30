@@ -35,6 +35,8 @@ public class SavingsCalculator {
     System.out.println("Final Balance: " + finalBalance);
     
 
+    System.out.println("=== Customer Interest Details ===");
+
     System.out.println("Customer 1 Interest: " + interest1);
     System.out.println("Customer 1 Whole Interest: " + wholeInterest1);
     System.out.println("Customer 1 Rounded Interest: " + roundedInterest1);
