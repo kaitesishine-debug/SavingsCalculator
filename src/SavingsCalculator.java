@@ -1,5 +1,6 @@
 public class SavingsCalculator {
     public static void main(String[] args) {
+   // Store the deposit amounts for the three customers
     int deposit1 = 99999;
     int deposit2 = 150000;
     int deposit3 = 75000;
