@@ -26,6 +26,7 @@ public class SavingsCalculator {
 
     double totalInterest = interest1 + interest2 + interest3;
 
+    System.out.println("=== Savings Summary ===");
     System.out.println("Total Deposits: " + totalDeposits); 
     System.out.println("Total Interest: " + totalInterest); 
 
